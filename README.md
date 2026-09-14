@@ -71,9 +71,9 @@ When interviewing for an **Enterprise AI Architect** role in BFSI, focus on thes
 Below is the standard reference architecture pattern applied across these BFSI agentic workflows:
 
 ```
-[ User / Channel / Core API ]
-            │
-            ▼
+             [ User / Channel / Core API ]
+                            │
+                            ▼
 ┌────────────────────────────────────────────────────────┐
 │             API Gateway & Identity Guard               │
 └───────────────────────────┬────────────────────────────┘
@@ -101,7 +101,7 @@ Below is the standard reference architecture pattern applied across these BFSI a
 
 ## 📜 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is created by Sirasani RaviKumar
 README.md
 Displaying README.md.
 
